@@ -1,4 +1,6 @@
 # webflux-rediscluster-example
+[![Build](https://github.com/gregwhitaker/webflux-rediscluster-example/actions/workflows/gradle.yml/badge.svg)](https://github.com/gregwhitaker/webflux-rediscluster-example/actions/workflows/gradle.yml)
+
 Example of retrieving data from a [Redis](https://redis.io/) cluster in a [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) application.
 
 ## Building the Example
